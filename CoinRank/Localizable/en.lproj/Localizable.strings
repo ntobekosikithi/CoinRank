@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  CoinRank
+
+  Created by Ntobeko Sikithi on 2025/02/25.
+  
+*/
+
+//Tabs
+"coin.list.tab.title" = "Top Coins";
+"favorite.tab.title" = "Favorites";
+
+//Screen title
+"coin.list.screen.title" = "Top Coins";
+"favorites.screen.title" = "Favorites";
+
+"sort.by.title" = "Sort By";
+"highest.price.title" = "Highest Price";
+"best.performance.title" = "Best Performance";
+"by.default.title" = "By Default";
+"cancel.title" = "Cancel";
+"unfavorite.title" = "Unfavorite";
+"favorite.title" = "Favorite";
+
+"current.price.title" = "Current Price";
+"price.chart.title" = "Price Chart";
+"statistics.title" = "Statistics";
+
+"marketCap.title" = "Market Cap";
+"Volume24h.title" = "24h Volume";
+"circulating.supply.title" = "Circulating Supply";
+"max.supply.title" = "Max Supply";
+"all.time.high.title" = "All Time High";
+
+"about.title" = "About";
+"remove.title" = "Remove";
