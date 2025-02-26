@@ -18,8 +18,8 @@ This iOS application fetches and displays cryptocurrency data from the CoinRanki
 
 ## Dependencies
 This project uses the following dependencies via Swift Package Manager (SPM):
-- 'Alamofire' for networking
-- 'Swinject' for dependency injection
+- `Alamofire` for networking
+- `Swinject` for dependency injection
 
 ## Installation
 
@@ -32,11 +32,9 @@ This project uses the following dependencies via Swift Package Manager (SPM):
    ```bash
     open CoinRank.xcodeproj    
 
-3. Install dependencies using SPM:
-   ```bash
 Install dependencies:
 - Xcode should automatically resolve and download dependencies when you open the project
-- If not, go to 'File → Packages → Resolve Package Versions'
+- If not, go to `File → Packages → Resolve Package Versions`
 
 4. Build and run the project on a simulator or physical device.
 
@@ -50,7 +48,7 @@ Install dependencies:
 ## Challenges & Solutions
 ### 1. Handling API Pagination Efficiently
 - **Challenge:** Ensuring data loads incrementally without redundant API calls.
-- **Solution:** Implemented 'scrollViewDidScroll' to fetch new pages only when reaching the bottom.
+- **Solution:** Implemented `scrollViewDidScroll` to fetch new pages only when reaching the bottom.
 
 ### 2. UI Consistency Between UIKit & SwiftUI
 - **Challenge:** Combining UIKit (UITableView) and SwiftUI components.
