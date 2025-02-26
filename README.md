@@ -62,9 +62,3 @@ Install dependencies:
 ## Future Enhancements
 - Implement CoreData for better persistence of favorites
 - Add search functionality for specific cryptocurrencies
-
-## Future Enhancements
-- **Data Caching**: Implement caching to improve performance and offline capabilities.
-- **Dark Mode**: Enhance UI for dark mode compatibility.
-- **Analytics Integration**: Track user interactions for insights and improvements.
-- **Advanced Error Handling**: Categorize and handle different error types with better user feedback.
